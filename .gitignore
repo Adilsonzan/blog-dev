@@ -1,0 +1,27 @@
+# Maven
+pom.xml.releaseBackup
+release.properties
+target
+
+# Eclipse
+target-eclipse
+org.maven.ide.eclipse.prefs
+org.eclipse.wst.*
+org.eclipse.jst.*
+org.eclipse.ltk.*
+.project
+.classpath
+.factorypath
+.settings/
+.jsdtscope
+
+# Jrebel
+rebel.xml
+
+# Sublime
+/sublime-project
+
+# Idea IntelliJ
+.idea
+*.iml
+overlays/
