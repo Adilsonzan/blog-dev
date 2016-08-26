@@ -54,7 +54,7 @@ O próprio Groovy já possui algumas anotações que são processadas por AST Tr
 - **@ToString**: adiciona um método *toString()* à classe anotada
 - **@EqualsAndHashCode**: adiciona *equals()* e *hashCode()*
 - **@Log**: adiciona uma instância de log
-- **@Singleton**: faz com que um bean seja imutável
+- **@Immutable**: faz com que um bean seja imutável
 
 A lista completa você pode ver no [site oficial](http://groovy-lang.org/metaprogramming.html#_available_ast_transformations).
 
